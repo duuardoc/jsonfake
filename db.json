@@ -1,13 +1,13 @@
 
 {
   "administradores": [
-    { "id": 1, "nomeCompleto": "adm01", "cpf": "xxx.xxx.xxx-xx", "email": "adm01@email", "telefone": "329999-9999" },
-    { "id": 2, "nomeCompleto": "adm02", "cpf": "xxx.xxx.xxx-xx", "email": "adm02@email", "telefone": "329999-9999" }
+    { "id": 1, "nomeCompleto": "adm01", "cpf": "11111111111", "email": "adm01@email", "telefone": "329999-9999" },
+    { "id": 2, "nomeCompleto": "adm02", "cpf": "11111111111", "email": "adm02@email", "telefone": "329999-9999" }
   ]
   "funcionarios": [
-    { "id": 1, "nomeCompleto": "funcionario01", "cpf": "xxx.xxx.xxx-xx", "enderecoCompleto": "rua01", "email": "f01@email", "telefone": "329999-9999", "nomeUsuario": "f01", "senha": "1" },
-    { "id": 2, "nomeCompleto": "funcionario02", "cpf": "xxx.xxx.xxx-xx", "enderecoCompleto": "rua02", "email": "f02@email", "telefone": "329999-9999", "nomeUsuario": "f00", "senha": "1" },
-    { "id": 3, "nomeCompleto": "funcionario03", "cpf": "xxx.xxx.xxx-xx", "enderecoCompleto": "rua03", "email": "f03@email", "telefone": "329999-9999", "nomeUsuario": "f03", "senha": "1" }
+    { "id": 1, "nomeCompleto": "funcionario01", "cpf": "11111111111", "enderecoCompleto": "rua01", "email": "f01@email", "telefone": "329999-9999", "nomeUsuario": "f01", "senha": "1" },
+    { "id": 2, "nomeCompleto": "funcionario02", "cpf": "11111111111", "enderecoCompleto": "rua02", "email": "f02@email", "telefone": "329999-9999", "nomeUsuario": "f00", "senha": "1" },
+    { "id": 3, "nomeCompleto": "funcionario03", "cpf": "11111111111", "enderecoCompleto": "rua03", "email": "f03@email", "telefone": "329999-9999", "nomeUsuario": "f03", "senha": "1" }
   ]
   "modalidades": [
     { "id": 1, "nomeModalidade": "modalidade01" },
