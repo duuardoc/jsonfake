@@ -17,24 +17,4 @@
     { "id": 1, "nomeMetodoVitoria": "metodo01" },
     { "id": 2, "nomeMetodoVitoria": "metodo02" }
   ]
-  "equipes": [
-    { "id": 1, "nomeEquipe": "equipe01", "dataOcorrencia": "01/01/2001", "endercoCompleto": "rua01" },
-    { "id": 2, "nomeEquipe": "equipe02", "dataOcorrencia": "01/01/2001", "endercoCompleto": "rua02" },
-    { "id": 3, "nomeEquipe": "equipe03", "dataOcorrencia": "01/01/2001", "endercoCompleto": "rua03" }
-  ]
-  "atletas": [
-    { "id": 1, "nomeCompleto": "atleta01", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
-    { "id": 2, "nomeCompleto": "atleta02", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
-    { "id": 3, "nomeCompleto": "atleta03", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 2, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
-    { "id": 4, "nomeCompleto": "atleta04", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 3, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" }
-  ]
-  "eventos": [
-    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua01" },
-    { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua02" },
-  ]
-  "lutas": [
-    { "id": 1, "idAtleta01": 1, "idAtleta02": 3, "vencedor": 1, "quantidadeRounds": 3, "idModalidade": 1, "pesoCategoria": 00.0, "roundEncerramento": , "instanteEncerramento": "", "arbitroCentral": "", "arbitroMesa": '' },
-    { "id": 1, "idAtleta01": 1, "idAtleta02": 3, "vencedor": 1, "quantidadeRounds": 3, "idModalidade": 1, "pesoCategoria": 00.0, "roundEncerramento": , "instanteEncerramento": "", "arbitroCentral": "", "arbitroMesa": '' },
-    { "id": 1, "idAtleta01": 1, "idAtleta02": 3, "vencedor": 1, "quantidadeRounds": 3, "idModalidade": 1, "pesoCategoria": 00.0, "roundEncerramento": , "instanteEncerramento": "", "arbitroCentral": "", "arbitroMesa": '' }
-  ]
 }
