@@ -13,8 +13,8 @@
     { "id": 2, "nomeModalidade": "modalidade02" }
   ],
   "metodosVitoria": [
-    { "id": 1, "nomeMetodoVitoria": "metodo01" },
-    { "id": 2, "nomeMetodoVitoria": "metodo02" }
+    { "id": 1, "titulo": "metodo01" },
+    { "id": 2, "titulo": "metodo02" }
   ],
   "equipes": [
     { "id": 1, "nomeEquipe": "equipe01", "dataOcorrencia": "01/01/2001", "endercoCompleto": "rua01" },
