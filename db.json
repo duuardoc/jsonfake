@@ -18,8 +18,8 @@
     { "id": 2, "titulo": "metodo02" }
   ],
   "equipes": [
-    { "id": 1, "nomeEquipe": "equipe01", "dataOcorrencia": "01/01/2001", "endercoCompleto": "rua01" },
-    { "id": 2, "nomeEquipe": "equipe02", "dataOcorrencia": "01/01/2001", "endercoCompleto": "rua02" },
-    { "id": 3, "nomeEquipe": "equipe03", "dataOcorrencia": "01/01/2001", "endercoCompleto": "rua03" }
+    { "id": 1, "nomeEquipe": "equipe01", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua01" },
+    { "id": 2, "nomeEquipe": "equipe02", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua02" },
+    { "id": 3, "nomeEquipe": "equipe03", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua03" }
   ]
 }
