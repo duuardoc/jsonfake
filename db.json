@@ -1,13 +1,9 @@
 {
-  "eventos": [
-    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua01" },
-    { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua02" }
-  ],
   "atletas": [
-    { "id": 1, "nomeCompleto": "atleta01", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
-    { "id": 2, "nomeCompleto": "atleta02", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
-    { "id": 3, "nomeCompleto": "atleta03", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 2, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
-    { "id": 4, "nomeCompleto": "atleta04", "dataNascimento": "01/01/2001", "nascionalidade": "BR", "idEquipe": 3, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" }
+    { "id": 1, "nomeCompleto": "atleta01", "dataNascimento": "01/01/2001", "nacionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
+    { "id": 2, "nomeCompleto": "atleta02", "dataNascimento": "01/01/2001", "nacionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
+    { "id": 3, "nomeCompleto": "atleta03", "dataNascimento": "01/01/2001", "nacionalidade": "BR", "idEquipe": 2, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" },
+    { "id": 4, "nomeCompleto": "atleta04", "dataNascimento": "01/01/2001", "nacionalidade": "BR", "idEquipe": 3, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "", "emailContato": "", "textoDescricao": "" }
   ],
   "modalidades": [
     { "id": 1, "nomeModalidade": "modalidade01" },
