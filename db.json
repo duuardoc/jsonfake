@@ -1,7 +1,7 @@
 {
   "eventos": [
-    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua01" },
-    { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01/01/2001", "enderecoCompleto": "rua02" }
+    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01/01/2001", "logradouro": "rua01", "numEndereco": "30", "cep": "01310-523", "cidade": "Santos Dumont", "uf": "MG" }
+    { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01/01/2001", "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", "cidade": "Juiz de Fora", "uf": "MG" }
   ],
   "atletas": [
     { "id": 1, "nomeCompleto": "atleta01", "dataNascimento": "01/01/2001", "nacionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta01@email", "textoDescricao": "" },
