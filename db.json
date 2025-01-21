@@ -1,6 +1,6 @@
 {
   "eventos": [
-    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01/01/2001", "logradouro": "rua01", "numEndereco": "30", "cep": "01310-523", "cidade": "Santos Dumont", "uf": "MG" }
+    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01/01/2001", "logradouro": "rua01", "numEndereco": "30", "cep": "01310-523", "cidade": "Santos Dumont", "uf": "MG" },
     { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01/01/2001", "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", "cidade": "Juiz de Fora", "uf": "MG" }
   ],
   "atletas": [
