@@ -4,10 +4,10 @@
     { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01-01-2001", "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", "cidade": "Juiz de Fora", "uf": "MG" }
   ],
   "atletas": [
-    { "id": 1,  "foto": "", "nomeCompleto": "atleta01", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta01@email", "textoDescricao": "" },
-    { "id": 2,  "foto": "", "nomeCompleto": "atleta02", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta02@email", "textoDescricao": "" },
-    { "id": 3,  "foto": "", "nomeCompleto": "atleta03", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 2, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta03@email", "textoDescricao": "" },
-    { "id": 4,  "foto": "", "nomeCompleto": "atleta04", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 3, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta04@email", "textoDescricao": "" }
+    { "id": 1,  "foto": "", "nomeCompleto": "atleta01", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta01@email", "textoDescricao": "" },
+    { "id": 2,  "foto": "", "nomeCompleto": "atleta02", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta02@email", "textoDescricao": "" },
+    { "id": 3,  "foto": "", "nomeCompleto": "atleta03", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 2, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta03@email", "textoDescricao": "" },
+    { "id": 4,  "foto": "", "nomeCompleto": "atleta04", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 3, "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta04@email", "textoDescricao": "" }
   ],
   "modalidades": [
     { "id": 1, "nomeModalidade": "modalidade01" },
