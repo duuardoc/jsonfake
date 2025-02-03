@@ -18,8 +18,8 @@
     { "id": 2, "titulo": "metodo02" }
   ],
   "equipes": [
-    { "id": 1, "nomeEquipe": "equipe01", "dataOcorrencia": "01/01/2001", "logradouro": "rua01", "numEndereco": "10", "cep": "01310-901", "cidade": "Juiz de Fora", "uf": "MG" },
-    { "id": 2, "nomeEquipe": "equipe02", "dataOcorrencia": "01/01/2001", "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", "cidade": "Belo Horizonte", "uf": "MG" },
-    { "id": 3, "nomeEquipe": "equipe03", "dataOcorrencia": "01/01/2001", "logradouro": "rua03", "numEndereco": "10", "cep": "01310-901", "cidade": "Barbacena", "uf": "MG" }
+    { "id": 1, "logo": "", "nomeEquipe": "equipe01", "dataOcorrencia": "01/01/2001", "logradouro": "rua01", "numEndereco": "10", "cep": "01310-901", "cidade": "Juiz de Fora", "uf": "MG" },
+    { "id": 2, "logo": "", "nomeEquipe": "equipe02", "dataOcorrencia": "01/01/2001", "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", "cidade": "Belo Horizonte", "uf": "MG" },
+    { "id": 3, "logo": "", "nomeEquipe": "equipe03", "dataOcorrencia": "01/01/2001", "logradouro": "rua03", "numEndereco": "10", "cep": "01310-901", "cidade": "Barbacena", "uf": "MG" }
   ]
 }
