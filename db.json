@@ -1,13 +1,29 @@
 {
   "eventos": [
-    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01-01-2001", "logradouro": "rua01", "numEndereco": "30", "cep": "01310-523", "cidade": "Santos Dumont", "uf": "MG" },
-    { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01-01-2001", "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", "cidade": "Juiz de Fora", "uf": "MG" }
+    { "id": 1, "nomeEvento": "evento01", "dataOcorrencia": "01-01-2001", 
+      "logradouro": "rua01", "numEndereco": "30", "cep": "01310-523", 
+      "cidade": "Santos Dumont", "uf": "MG" },
+    { "id": 2, "nomeEvento": "evento02", "dataOcorrencia": "01-01-2001", 
+      "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", 
+      "cidade": "Juiz de Fora", "uf": "MG" }
   ],
   "atletas": [
-    { "id": 1,  "foto": "", "nomeCompleto": "atleta01", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1, "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta01@email", "textoDescricao": "" },
-    { "id": 2,  "foto": "", "nomeCompleto": "atleta02", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1, "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta02@email", "textoDescricao": "" },
-    { "id": 3,  "foto": "", "nomeCompleto": "atleta03", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 2, "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta03@email", "textoDescricao": "" },
-    { "id": 4,  "foto": "", "nomeCompleto": "atleta04", "genero": "", "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 3, "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "", "numeroContato": "3299999999", "emailContato": "atleta04@email", "textoDescricao": "" }
+    { "id": 1,  "foto": "", "nomeCompleto": "atleta01", "genero": "",
+      "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1,
+      "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "",
+      "numeroContato": "3299999999", "emailContato": "atleta01@email", "textoDescricao": "" },
+    { "id": 2,  "foto": "", "nomeCompleto": "atleta02", "genero": "",
+      "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 1,
+      "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "",
+      "numeroContato": "3299999999", "emailContato": "atleta02@email", "textoDescricao": "" },
+    { "id": 3,  "foto": "", "nomeCompleto": "atleta03", "genero": "", 
+      "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 2,
+      "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "",
+      "numeroContato": "3299999999", "emailContato": "atleta03@email", "textoDescricao": "" },
+    { "id": 4,  "foto": "", "nomeCompleto": "atleta04", "genero": "",
+      "dataNascimento": "01-01-2001", "nacionalidade": "BR", "idEquipe": 3,
+      "nomeEquipe": "equipe01", "altura": 1.80, "pesoCorporal": 90, "apelido": "",
+      "numeroContato": "3299999999", "emailContato": "atleta04@email", "textoDescricao": "" }
   ],
   "modalidades": [
     { "id": 1, "nomeModalidade": "modalidade01" },
@@ -18,8 +34,14 @@
     { "id": 2, "titulo": "metodo02" }
   ],
   "equipes": [
-    { "id": 1, "logo": "", "nomeEquipe": "equipe01", "dataCriacao": "01-01-2001", "logradouro": "rua01", "numEndereco": "10", "cep": "01310-901", "cidade": "Juiz de Fora", "uf": "MG" },
-    { "id": 2, "logo": "", "nomeEquipe": "equipe02", "dataCriacao": "01-01-2001", "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901", "cidade": "Belo Horizonte", "uf": "MG" },
-    { "id": 3, "logo": "", "nomeEquipe": "equipe03", "dataCriacao": "01-01-2001", "logradouro": "rua03", "numEndereco": "10", "cep": "01310-901", "cidade": "Barbacena", "uf": "MG" }
+    { "id": 1, "logo": "", "nomeEquipe": "equipe01", "dataCriacao": "01-01-2001",
+      "logradouro": "rua01", "numEndereco": "10", "cep": "01310-901",
+      "cidade": "Juiz de Fora", "uf": "MG" },
+    { "id": 2, "logo": "", "nomeEquipe": "equipe02", "dataCriacao": "01-01-2001",
+      "logradouro": "rua02", "numEndereco": "10", "cep": "01310-901",
+      "cidade": "Belo Horizonte", "uf": "MG" },
+    { "id": 3, "logo": "", "nomeEquipe": "equipe03", "dataCriacao": "01-01-2001",
+      "logradouro": "rua03", "numEndereco": "10", "cep": "01310-901",
+      "cidade": "Barbacena", "uf": "MG" }
   ]
 }
